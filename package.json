@@ -1,19 +1,27 @@
 {
-  "name": "y",
+  "name": "Portfolio-resume-projects",
   "version": "1.0.0",
   "description": "Portfolio-resume-projects",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node your-script.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RhondieG/cuddly-broccoli.git"
   },
-  "author": "",
+  "author": "Rhonda Gilliard",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RhondieG/cuddly-broccoli/issues"
   },
-  "homepage": "https://github.com/RhondieG/cuddly-broccoli#readme"
+  "homepage": "https://github.com/RhondieG/cuddly-broccoli#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
