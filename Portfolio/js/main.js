@@ -1,6 +1,6 @@
 (function ($) {
 
-    "use stict";
+    "use strict";
 
     var position = $(window).scrollTop();
 
