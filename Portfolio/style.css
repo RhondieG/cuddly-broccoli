@@ -556,8 +556,8 @@ h2.section-title {
 
 .home-right-part {
     flex: 1 0 0;
-    height: 100%;
-    background-image: url(images/home.jpg);
+    height: 80%;
+    background-image: url(images/portfoliopic.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
