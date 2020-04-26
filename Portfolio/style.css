@@ -505,7 +505,7 @@ img.my-info-signature {
 
 .content-right {
     margin-left: 380px;
-    width: calc(100% - 380px);
+    width: calc(100% - 440px);
 }
 
 .content-right-wrapper > div:last-of-type {
@@ -520,7 +520,7 @@ img.my-info-signature {
 
 .section-wrapper {
     padding-left: 5%;
-    padding-right: 5%;
+    padding-right: %;
 }
 
 .full-width-section.section {
@@ -529,7 +529,7 @@ img.my-info-signature {
 
 .full-width-section .section-wrapper {
     padding: 0 0 0 5%;
-    height: 100vh;
+    height: 125vh;
     margin: 0;
     display: flex;
     display: -webkit-flex;
