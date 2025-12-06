@@ -20,7 +20,7 @@
 
   "dependencies": {
     "axios": "^0.30.2",
-    "express": "^4.17.3",
+    "express": "^4.22.0",
     "updates": "^9.3.3"
   },
   "devDependencies": {
