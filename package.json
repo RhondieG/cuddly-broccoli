@@ -21,7 +21,7 @@
   "dependencies": {
     "axios": "^0.30.2",
     "express": "^4.17.3",
-    "updates": "^9.3.3"
+    "updates": "^17.0.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
