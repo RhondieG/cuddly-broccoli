@@ -19,6 +19,8 @@
   "homepage": "https://github.com/RhondieG/cuddly-broccoli#readme",
 
   "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.21.2",
     "axios": "^0.30.2",
     "express": "^4.22.1",
     "updates": "^9.3.3"
